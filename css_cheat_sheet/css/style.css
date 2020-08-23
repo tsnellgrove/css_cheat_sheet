@@ -1,3 +1,29 @@
 h1{
-	color:green;
+	background-color:#f4f4f4;
+	color:rgb(0,0,255);
+
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:100px;
+	font-weight:normal;
+	/* same as above */
+	font: normal 100py Ariel, Helvetica, sans-serif;
+
+	line-height:1.6em;
+	margin:0
 }
+
+.container{
+	width:80%;
+	margin:auto;
+}
+
+
+.box-1{
+	background-color:#333;
+	/* #333 = shortcut for #333333 */
+	color:#fff;
+}
+
+
+
+
