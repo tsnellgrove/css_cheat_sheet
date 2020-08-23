@@ -8,7 +8,11 @@ Learn CSS:
 	- DONE: create browser script
 	- DONE: migrate learning environment to working copy
 day 3:
-	- learn about classes and font settings
-	- create github repo and push commits to origin
+	- DONE: learn about classes and font settings
+	- DONE: create github repo and push commits to origin
+day 4:
+	- learn about margins and ??
+
+
 	
 
