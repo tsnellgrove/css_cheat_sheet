@@ -11,7 +11,9 @@ day 3:
 	- DONE: learn about classes and font settings
 	- DONE: create github repo and push commits to origin
 day 4:
-	- learn about margins and ??
+	- DONE: learn about margins and text formating
+day 5: 
+	- learn about ?
 
 
 	

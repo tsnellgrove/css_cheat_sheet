@@ -1,3 +1,10 @@
+/*
+*{
+	margin:0;
+	padding:0;
+}
+*/
+
 h1{
 	background-color:#f4f4f4;
 	color:rgb(0,0,255);
@@ -22,8 +29,39 @@ h1{
 	background-color:#333;
 	/* #333 = shortcut for #333333 */
 	color:#fff;
+
+	border-right:5px red solid;
+	border-left:5px red solid;
+	border-top:5px red solid;
+	border-bottom:5px red solid;
+	/* same as above */
+	border: 5px red solid;
+	border-width:3px;
+	border-bottom-width:10px;
+	border-top-style:dotted;
+	
+	padding-top:20px;
+	padding-bottom:20px;
+	padding-left:20px;
+	padding-right:20px;
+
+	/*same as above */
+	padding:20px;
+	
+	margin-top:20px;
+	margin: 20px 0;
+	/* 20 top & bootom none for rt & lft */
 }
 
+.box-1 h1{
+	font-family:Tahoma;
+	font-weight:800;
+	font-style:italic;
+	text-decoration:underline;
+	text-transform:uppercase;
+	letter-spacing:0.2em;
+	word-spacing:1em;
+}
 
 
 
