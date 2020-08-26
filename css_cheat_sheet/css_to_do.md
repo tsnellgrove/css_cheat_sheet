@@ -13,7 +13,10 @@ day 3:
 day 4:
 	- DONE: learn about margins and text formating
 day 5: 
-	- learn about ?
+	- learn about additional classes; lists
+day 6:
+	- learn about a styles; struggling with applying li styles
+
 
 
 	
