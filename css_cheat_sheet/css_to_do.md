@@ -16,6 +16,9 @@ day 5:
 	- learn about additional classes; lists
 day 6:
 	- learn about a styles; struggling with applying li styles
+day 7:
+	- more li; image bullets; forms next!
+	
 
 
 

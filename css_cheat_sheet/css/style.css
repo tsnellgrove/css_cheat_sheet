@@ -102,11 +102,16 @@ a:visited{
 	list-style:none;
 }
 
-/* li not displaying for some reason?? */
+/* li border styling not displaying for some reason?? */
 
-.categories li{
+.categories2 li{
 	text-style:bold;
 	padding-bottom:6px;
+	padding-left:20px;
 	boarder-bottom:dotted 1px #333;
+	list-style-image: url('../images/check.png');
 }
+
+
+
 
