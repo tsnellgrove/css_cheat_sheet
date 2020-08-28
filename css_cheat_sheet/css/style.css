@@ -33,7 +33,7 @@ a:active{
 }
 
 a:visited{
-	color:blue;
+/*	color:blue; */
 }
 
 .container{
@@ -109,9 +109,41 @@ a:visited{
 	padding-bottom:6px;
 	padding-left:20px;
 	boarder-bottom:dotted 1px #333;
+	/* un-comment to see image bullet example
 	list-style-image: url('../images/check.png');
+	*/
 }
 
+.my-form{
+	padding:20px;
+}
 
+.my-form .form-group{
+	padding-bottom:15px;
+}
+
+/* puts form label on own line */
+.my-form label{
+	display:block;
+}
+
+/* makes text forms full width */
+.my-form input[type="text"], .my-form textarea{
+	padding:8px;
+	width:100%;
+}
+
+/* should be at top since is global */
+.button{
+	background-color:#333;
+	color:#fff;
+	padding:10px 15px;
+	border:none;
+}
+
+.button-hover{
+	background-color:red;
+	color:#fff;
+}
 
 

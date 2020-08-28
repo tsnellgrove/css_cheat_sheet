@@ -17,7 +17,10 @@ day 5:
 day 6:
 	- learn about a styles; struggling with applying li styles
 day 7:
-	- more li; image bullets; forms next!
+	- more li formatting; image bullets; forms next!
+day 8:
+	- forms styling!! Alignment and float next
+
 	
 
 
