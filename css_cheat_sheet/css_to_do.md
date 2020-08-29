@@ -20,6 +20,9 @@ day 7:
 	- more li formatting; image bullets; forms next!
 day 8:
 	- forms styling!! Alignment and float next
+day 9:
+	- floats and sidebars!; Positioning next!
+	
 
 	
 

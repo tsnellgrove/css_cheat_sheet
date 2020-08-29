@@ -146,4 +146,33 @@ a:visited{
 	color:#fff;
 }
 
+.block{
+	float:left;
+	width:33.3%;
+	border:1px solid #ccc;
+	padding:10px;
+	box-sizing:border-box;
+}
+
+/* should be at top since global */
+.clr{
+	clear:both;
+}
+
+#main-block{
+	float:left;
+	width:70%;
+	padding:15px;
+	box-sizing:border-box;
+}
+
+#sidebar{
+	float:right;
+	width:30%;
+	background-color:#333;
+	color:#fff;
+	padding:15px;
+	box-sizing:border-box;
+}
+
 
