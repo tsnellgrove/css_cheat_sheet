@@ -22,6 +22,8 @@ day 8:
 	- forms styling!! Alignment and float next
 day 9:
 	- floats and sidebars!; Positioning next!
+Day 10:
+	- Positioning! Images as backgrounds next!
 	
 
 	
