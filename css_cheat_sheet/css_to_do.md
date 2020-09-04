@@ -5,7 +5,7 @@ Learn CSS:
 - day 2:
 	- DONE: learn how to call css
 	- DONE: setup initial learning environment
-	- DONE: create browser script
+	- DONE: create browser script for Pythonista
 	- DONE: migrate learning environment to working copy
 day 3:
 	- DONE: learn about classes and font settings
@@ -24,11 +24,5 @@ day 9:
 	- floats and sidebars!; Positioning next!
 Day 10:
 	- Positioning! Images as backgrounds next!
-	
-
-	
-
-
-
-	
-
+Day 11:
+	- Background images; Pseudo Classes next!

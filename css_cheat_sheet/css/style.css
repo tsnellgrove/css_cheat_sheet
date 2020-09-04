@@ -5,6 +5,8 @@
 }
 */
 
+/* classes and font settings */
+
 h1{
 	background-color:#f4f4f4;
 	color:rgb(0,0,255);
@@ -35,6 +37,8 @@ a:active{
 a:visited{
 /*	color:blue; */
 }
+
+/* margins and text settings */
 
 .container{
 	width:80%;
@@ -96,6 +100,8 @@ a:visited{
 	text-align:center;
 }
 
+/* lists */
+
 .categories ul{
 	padding:0;
 	list-style:square;
@@ -113,6 +119,8 @@ a:visited{
 	list-style-image: url('../images/check.png');
 	*/
 }
+
+/* forms */
 
 .my-form{
 	padding:20px;
@@ -146,6 +154,8 @@ a:visited{
 	color:#fff;
 }
 
+/* floats and sidebars */
+
 .block{
 	float:left;
 	width:33.3%;
@@ -175,11 +185,18 @@ a:visited{
 	box-sizing:border-box;
 }
 
+/* positioning and background images */
+
 .p-box{
 	width:800px;
 	height:500px;
 	border:1px solid #000;
 	margin-top:30px;
+	position: relative;
+	background-image: url('../images/bg_image.jpg');
+	background-repeat: no-repeat;
+	background-position: 100px 200px;
+	background-position: center top;
 }
 
 .p-box h1{
@@ -198,4 +215,5 @@ a:visited{
 	position:fixed;
 	top:400px;
 }
+
 
