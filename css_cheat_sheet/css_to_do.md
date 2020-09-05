@@ -26,3 +26,6 @@ Day 10:
 	- Positioning! Images as backgrounds next!
 Day 11:
 	- Background images; Pseudo Classes next!
+Day 12:
+	- Pseudo classes, Cheatsheet done!, Base index.html for My Website created; Next = CSS for My Website
+	
