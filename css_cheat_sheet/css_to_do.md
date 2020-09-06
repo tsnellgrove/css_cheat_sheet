@@ -28,4 +28,5 @@ Day 11:
 	- Background images; Pseudo Classes next!
 Day 12:
 	- Pseudo classes, Cheatsheet done!, Base index.html for My Website created; Next = CSS for My Website
-	
+Day 13:
+	- CSS up to showcase (with MASSIVE issues on background-image!)
