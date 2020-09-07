@@ -30,3 +30,6 @@ Day 12:
 	- Pseudo classes, Cheatsheet done!, Base index.html for My Website created; Next = CSS for My Website
 Day 13:
 	- CSS up to showcase (with MASSIVE issues on background-image!)
+Day 14:
+	- Finished CSS course!!
+
