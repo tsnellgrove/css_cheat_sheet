@@ -102,4 +102,4 @@ Duck is the common name for numerous species in the waterfowl family Anatidae wh
 	/* id is for uniqe elements */
 	/* class is for element to be used repeatedly */
 
-/* for background-image - sometimes it's not clear in the iOS filer whether an image already has a ".jpg"... during rename this can lead to "image.jpg.jpg" and lots of issues linking to the correct image name (which will lead to a blank white background). When in doubt, inspect the file in Working Copy - it will report the true file name.
+/* for background-image - sometimes it's not clear in the iOS filer whether an image already has a ".jpg"... during rename this can lead to "image.jpg.jpg" and lots of issues linking to the correct image name (which will lead to a blank white background). When in doubt, inspect the file in Working Copy - it will report the true file name. */
